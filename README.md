@@ -7,12 +7,11 @@ Qui non si entra per credere, ma per vedere.
 
 # Sulla soglia
 
-Spazio aperto, accessibile per chiunque
-
-[HOME](https://macbook23978.github.io/temple/) 
-
-© 2026 Tempio. Tutti i diritti riservati.
+Tempio aperto, accessibile a chiunque:
+[GitHub(https://macbook23978.github.io/temple/) 
 
 ## @
 
 PayPal sostieni [QUI]([paypallink](https://macbook23978.github.io/temple/))
+
+© 2026 Tempio. Tutti i diritti riservati.
