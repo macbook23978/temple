@@ -8,7 +8,8 @@ Qui non si entra per credere, ma per vedere.
 # Sulla soglia
 
 Spazio aperto, accessibile per chiunque
-[GitHub (based)](https://macbook23978.github.io/temple/) 
+
+[HOME](https://macbook23978.github.io/temple/) 
 
 ## @
 
