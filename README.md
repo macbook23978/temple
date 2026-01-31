@@ -7,6 +7,9 @@ Qui non si entra per credere, ma per vedere.
 
 # Sulla soglia
 
+Spazio aperto, accessibile per chiunque
 [GitHub (based)](https://macbook23978.github.io/temple/) 
 
-Spazio aperto accessibile a chiunque, sostieni [QUI]([paypallink](https://macbook23978.github.io/temple/))
+## @
+
+PayPal sostieni [QUI]([paypallink](https://macbook23978.github.io/temple/))
