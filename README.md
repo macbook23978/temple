@@ -7,7 +7,7 @@ Qui non si entra per credere, ma per vedere.
 
 # Sulla soglia
 
-GitHub link
-
+[GitHub (based)](https://macbook23978.github.io/temple/)
+[X](https://macbook23978.github.io/temple/)
 
 Spazio aperto accessibile a chiunque, sostieni QUI
