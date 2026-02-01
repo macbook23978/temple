@@ -9,7 +9,7 @@ Qui non si entra per credere, ma per vedere.
 
 Tempio aperto, accessibile a chiunque
 
-[MANIFESTO](https://macbook23978.github.io/Tempio/)
+[**MANIFESTO**](https://macbook23978.github.io/Tempio/MANIFESTO.md)
 
 ## @
 
