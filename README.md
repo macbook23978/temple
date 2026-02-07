@@ -1,6 +1,3 @@
----
-layout: home
----
 
 ![Logo del Tempio](logo.jpg)
 
