@@ -1,4 +1,3 @@
+theme: jekyll-theme-minimal
 title: Tempio
-description: Scritti. Senza decorazioni.
-theme: minima
-markdown: kramdown
+description: Tempio Web Site
